@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wiki GeoSearch</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="greeting">Search for Wikipedia articles about nearby locations?</string>
+    <string name="greeting_yes">Yes</string>
+    <string name="greeting_no">No</string>
+    <string name="no_location_detected">No Location Detected</string>
+    <string name="parse_activity">Search Results</string>
+    <string name="location_activity">LocationActivity</string>
+    <string name="latitude_text">0.0</string>
+    <string name="longitude_text">0.0</string>
+    <string name="json_object">EMPTY</string>
+    <string name="web_url">URL</string>
+    <string name="web_view_activity">Wikipedia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_show_map">Show in Google Maps</string>
+    <string name="action_show_list">Show in List Form</string>
+    <string name="action_search">Search Again</string>
+    <string name="network_activity">Searching</string>
+
+</resources>
